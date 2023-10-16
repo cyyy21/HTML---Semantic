@@ -1,2 +1,5 @@
 # StaticPage
-Structure Html using semantic tags
+
+Activity in Codelinea Day6.
+
+Structure HTML using semantic tag.
